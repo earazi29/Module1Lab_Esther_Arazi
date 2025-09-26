@@ -1,0 +1,29 @@
+# the run of the program
+
+Welcome to the Campus Café!
+Today on our menu:
+Coffee..........$1.75
+Muffins..........$2.50(ea)
+Bagels..........$1.50(ea)
+
+How many coffees would you like?: 2
+How many muffins would you like?: 1
+How many bagels would you like?: 1
+How much would you like to tip?(10 for 10%): 10
+
+Total amount of Coffees: 2
+Total amount of Muffins: 1
+Total amount of Bagels: 1
+
+
+------Thank you for coming! Have a wonderful day!-------
+
+-----Receipt-----
+Coffees $1.75 (ea)........... 2 = $3.50
+Muffins $2.50 (ea)........... 1 = $2.50
+Bagels $1.75 (ea)........... 1 = $1.50
+
+Subtotal: $7.50
+Tax:      $0.67
+Tip:      $0.75
+Total:    $8.92
